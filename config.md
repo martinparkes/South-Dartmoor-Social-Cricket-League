@@ -15,8 +15,10 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "South Dartmoor Social Cricket League"
 website_descr = ""
-website_url   = ""
+website_url   = "https://martinparkes.github.io/South-Dartmoor-Social-Cricket-League/"
 +++
+
+@def prepath = "South-Dartmoor-Social-Cricket-League"
 
 <!--
 Add here global latex commands to use throughout your pages.
