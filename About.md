@@ -1,6 +1,6 @@
 @def title = "About"
 
-The **South Dartmoor Social Cricket League** is an informal league organised by five south Dartmoor teams and focussed on enjoying social cricket. But it is also a league, and there must be winners and losers, so to help avoid unecessary diagreements the following have been agreed between the clubs.
+The **South Dartmoor Social Cricket League** is an informal league organised by five south Dartmoor teams focussed on enjoying social cricket. But it is also a league, and there must be winners and losers. So to help avoid unecessary diagreements the following have been agreed between the clubs.
 
 # Fixtures
 
