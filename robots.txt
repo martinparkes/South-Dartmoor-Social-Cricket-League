@@ -1,4 +1,4 @@
-Sitemap: sitemap.xml
+Sitemap: https://martinparkes.github.io/South-Dartmoor-Social-Cricket-League/sitemap.xml
 
 User-agent: *
 Disallow:
