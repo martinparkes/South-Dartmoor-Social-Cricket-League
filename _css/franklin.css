@@ -160,10 +160,17 @@ h6 {
 
 .franklin-content th,
 td {
-  font-size: 22px;
+  font-size: 16px;
   padding: 10px;
   /* border: 1px solid black; */
 }
+
+th {
+  background-color: #0073ca;
+  color: white;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
 
 .franklin-content blockquote {
   background: var(--block-background);
